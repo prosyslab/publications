@@ -6,6 +6,16 @@
   paper: ""
   type: "conference"
 
+- title: "PacMan: Securing Dependencies Continuously via Package-Oriented Debloating"
+  author: [ "Pardis Pashakhanloo", "Aravind Machiry", "Hyonyoung Choi",
+  "Anthony Canino", "Kihong Heo", "Insup Lee", "Mayur Naik"],
+  venue: "ASIACCS 2022: ACM ASIA Conference on Computer and Communications Security"
+  venue_link: "https://asiaccs2022.conferenceservice.jp"
+  year: 2022
+  paper: ""
+  type: "conference"
+
+
 - title: "Boosting Static Analysis Accuracy With Instrumented Test Executions"
   author: ["Tianyi Chen", "Kihong Heo", "Mukund Raghothaman"]
   venue: "ESEC/FSE 2021: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
