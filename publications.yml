@@ -4,6 +4,7 @@
   venue_link: "https://conf.researchr.org/track/icse-2022/icse-2022-papers"
   year: 2022
   paper: ""
+  full: "icse22-full.pdf"
   type: "conference"
 
 - title: "PacMan: Securing Dependencies Continuously via Package-Oriented Debloating"
