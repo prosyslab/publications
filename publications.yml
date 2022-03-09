@@ -3,7 +3,7 @@
   venue: "ICSE 2022: 44th International Conference on Software Engineering"
   venue_link: "https://conf.researchr.org/track/icse-2022/icse-2022-papers"
   year: 2022
-  paper: ""
+  paper: "icse22.pdf"
   full: "icse22-full.pdf"
   type: "conference"
 
@@ -12,7 +12,7 @@
   venue: "ASIACCS 2022: ACM ASIA Conference on Computer and Communications Security"
   venue_link: "https://asiaccs2022.conferenceservice.jp"
   year: 2022
-  paper: ""
+  paper: "asiaccs22.pdf"
   type: "conference"
 
 
