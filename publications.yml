@@ -7,6 +7,7 @@
   full: "icse22-full.pdf"
   type: "conference"
   award: "Best Artifact Award"
+  video: "https://youtu.be/FzshZZyqU14"
 
 - title: "PacJam: Securing Dependencies Continuously via Package-Oriented Debloating"
   author: [ "Pardis Pashakhanloo", "Aravind Machiry", "Hyonyoung Choi", "Anthony Canino", "Kihong Heo", "Insup Lee", "Mayur Naik"]
