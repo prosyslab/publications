@@ -1,6 +1,14 @@
+- title: "Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities"
+  author: [ "Wooseok Kang", "Byoungho Son", "Kihong Heo" ]
+  venue: "CCS 2022: ACM Conference on Computer and Communications Security"
+  venue_link: "https://www.sigsac.org/ccs/CCS2022/"
+  year: 2022
+  paper: "ccs22.pdf"
+  type: "conference"
+
 - title: "Learning Probabilistic Models for Static Analysis Alarms"
   author: [ "Hyunsu Kim", "Mukund Raghothaman", "Kihong Heo" ]
-  venue: "ICSE 2022: 44th International Conference on Software Engineering"
+  venue: "ICSE 2022: International Conference on Software Engineering"
   venue_link: "https://conf.researchr.org/track/icse-2022/icse-2022-papers"
   year: 2022
   paper: "icse22.pdf"
@@ -44,7 +52,7 @@
 
 - title: "Resource-aware Program Analysis via Online Abstraction Coarsening"
   author: ["Kihong Heo", "Hakjoo Oh", "Hongseok Yang"]
-  venue: "ICSE 2019: 41st ACM/IEEE International Conference on Software Engineering"
+  venue: "ICSE 2019: ACM/IEEE International Conference on Software Engineering"
   venue_link: "https://2019.icse-conferences.org"
   year: 2019
   paper: "icse19.pdf"
