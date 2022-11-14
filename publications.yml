@@ -57,7 +57,7 @@
   venue_link: "https://2019.icse-conferences.org"
   year: 2019
   paper: "icse19.pdf"
-  slides: "icse19.pdf"
+  slides: "icse19-slides.pdf"
   type: "conference"
   award: "Distinguished Paper Award"
 
@@ -68,7 +68,7 @@
   venue_link: "https://www.sigsac.org/ccs/CCS2018"
   year: 2018
   paper: "ccs18.pdf"
-  slides: "ccs18.pdf"
+  slides: "ccs18-slides.pdf"
   code: "https://github.com/aspire-project/chisel"
   video: "https://youtu.be/8eRZKoLFakw"
   type: "conference"
@@ -162,7 +162,7 @@
   year: 2016
   paper: "sas16.pdf"
   bib: "http://dblp.uni-trier.de/rec/bibtex/conf/sas/HeoOY16"
-  slides: "sas16.pdf"
+  slides: "sas16-slides.pdf"
   type: "conference"
 
 - title: "Selective X-Sensitive Analysis Guided by Impact Pre-Analysis"
