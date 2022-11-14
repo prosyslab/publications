@@ -4,6 +4,7 @@
   venue_link: "https://www.sigsac.org/ccs/CCS2022/"
   year: 2022
   paper: "ccs22.pdf"
+  slides: "ccs22-slides.pdf"
   type: "conference"
   project_page: "https://prosys.kaist.ac.kr/tracer"
 
