@@ -1,3 +1,13 @@
+- title: "DAFL: Directed Grey-box Fuzzing guided by Data Dependency"
+  author: [ "Tae Eun Kim", "Jaeseung Choi", "Kihong Heo" "Sang Kil Cha"]
+  venue: "Security 2023: USENIX Security Symposium"
+  venue_link: "https://www.usenix.org/conference/usenixsecurity23"
+  year: 2023
+  paper: "sec22.pdf"
+  slides: "sec22-slides.pdf"
+  type: "conference"
+
+
 - title: "Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities"
   author: [ "Wooseok Kang", "Byoungho Son", "Kihong Heo" ]
   venue: "CCS 2022: ACM Conference on Computer and Communications Security"
