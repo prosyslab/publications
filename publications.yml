@@ -3,8 +3,8 @@
   venue: "Security 2023: USENIX Security Symposium"
   venue_link: "https://www.usenix.org/conference/usenixsecurity23"
   year: 2023
-  paper: "sec22.pdf"
-  slides: "sec22-slides.pdf"
+  paper: "sec23.pdf"
+  slides: "sec23-slides.pdf"
   type: "conference"
 
 - title: "Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities"
