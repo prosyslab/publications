@@ -6,6 +6,7 @@
   paper: "sec23.pdf"
   slides: "sec23-slides.pdf"
   type: "conference"
+  video: "https://www.youtube.com/watch?v=BjtKhyzLtyo"
 
 - title: "Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities"
   author: [ "Wooseok Kang", "Byoungho Son", "Kihong Heo" ]
