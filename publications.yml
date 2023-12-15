@@ -1,3 +1,11 @@
+- title: "Translation Validation for JIT Compiler in the V8 JavaScript Engine"
+  author: [ "Seungwan Kwon", "Jaeseong Kwon", "Wooseok Kang", "Juneyoung Lee", "Kihong Heo"]
+  venue: "ICSE 2024: International Conference on Software Engineering"
+  venue_link: "https://conf.researchr.org/home/icse-2024"
+  year: 2024
+  paper: ""
+  type: "conference"
+
 - title: "DAFL: Directed Grey-box Fuzzing Guided by Data Dependency"
   author: [ "Tae Eun Kim", "Jaeseung Choi", "Kihong Heo", "Sang Kil Cha"]
   venue: "Security 2023: USENIX Security Symposium"
