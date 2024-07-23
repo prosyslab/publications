@@ -4,6 +4,7 @@
   venue_link: "https://conf.researchr.org/home/fse-2024"
   year: 2024
   paper: "fse24.pdf"
+  slides: "fse24-slides.pdf"
   type: "conference"
 
 - title: "Translation Validation for JIT Compiler in the V8 JavaScript Engine"
