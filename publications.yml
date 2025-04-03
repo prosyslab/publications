@@ -1,3 +1,19 @@
+- title: "Optimization-Directed Compiler Fuzzing for Continuous Translation Validation"
+  author: [ "Jaeseong Kwon", "Bongjun Jang", "Juneyoung Lee", "Kihong Heo" ]
+  venue: "PLDI 2025: ACM SIGPLAN Conference on Programming Language Design and Implementation"
+  venue_link: "https://pldi25.sigplan.org"
+  year: 2025
+  paper: "pldi25.pdf"
+  type: "conference"
+
+- title: "UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions "
+  author: [ "Sujin Jang", "Yeonhee Ryou", "Heewon Lee", "Kihong Heo" ]
+  venue: "FSE 2025: ACM International Conference on the Foundations of Software Engineering"
+  venue_link: "https://conf.researchr.org/home/fse-2025"
+  year: 2025
+  paper: "fse25.pdf"
+  type: "conference"
+
 - title: "Improving Fault Localization with External Oracle by using Counterfactual Execution"
   author: [ "Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo" ]
   venue: "TOSEM: ACM Transactions on Software Engineering and Methodology"
