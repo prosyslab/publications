@@ -13,6 +13,7 @@
   year: 2025
   paper: "fse25.pdf"
   type: "conference"
+  award: "Distinguished Paper Award"
 
 - title: "Improving Fault Localization with External Oracle by using Counterfactual Execution"
   author: [ "Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo" ]
