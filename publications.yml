@@ -1,3 +1,12 @@
+
+- title: "Safeguarding Mobile GUI Agent via Logic-based Action Verification"
+  author: [ "Jungjae Lee", "Dongjae Lee", "Chihun Choi", "Youngmin Im", "Jaeyoung Wi", "Kihong Heo", "Sangeun Oh", "Sunjae Lee", "Insik Shin" ]
+  venue: "MobiCom 2025: ACM SIGMOBILE Conference on Mobile Computing And Networking"
+  venue_link: "https://www.sigmobile.org/mobicom/2025"
+  year: 2025
+  paper: "mobicom25.pdf"
+  type: "conference"
+
 - title: "Optimization-Directed Compiler Fuzzing for Continuous Translation Validation"
   author: [ "Jaeseong Kwon", "Bongjun Jang", "Juneyoung Lee", "Kihong Heo" ]
   venue: "PLDI 2025: ACM SIGPLAN Conference on Programming Language Design and Implementation"
