@@ -13,6 +13,9 @@
   venue_link: "https://pldi25.sigplan.org"
   year: 2025
   paper: "pldi25.pdf"
+  slides: "pldi25-slides.pdf"
+  project_page: "https://prosys.kaist.ac.kr/optimuzz/"
+  video: "https://www.youtube.com/watch?v=pgw1UDJmez8&t=11893s"
   type: "conference"
 
 - title: "UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions "
