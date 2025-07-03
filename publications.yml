@@ -24,7 +24,9 @@
   venue_link: "https://conf.researchr.org/home/fse-2025"
   year: 2025
   paper: "fse25.pdf"
+  slides: "fse25-slides.pdf"
   type: "conference"
+  project_page: "https://prosys.kaist.ac.kr/unitcon"
   award: "Distinguished Paper Award"
 
 - title: "Improving Fault Localization with External Oracle by using Counterfactual Execution"
