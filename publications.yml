@@ -33,8 +33,8 @@
   author: [ "Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo" ]
   venue: "TOSEM: ACM Transactions on Software Engineering and Methodology"
   venue_link: "https://dl.acm.org/journal/tosem"
-  year: 2024
-  paper: "tosem24.pdf"
+  year: 2025
+  paper: "tosem25.pdf"
   type: "journal"
 
 - title: "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?"
