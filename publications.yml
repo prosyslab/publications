@@ -5,6 +5,7 @@
   venue_link: "https://www.sigmobile.org/mobicom/2025"
   year: 2025
   paper: "mobicom25.pdf"
+  slides: "mobicom25-slides.pdf"
   type: "conference"
 
 - title: "Optimization-Directed Compiler Fuzzing for Continuous Translation Validation"
