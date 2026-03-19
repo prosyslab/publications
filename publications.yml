@@ -181,7 +181,7 @@
   type: "journal"
   misc: "Invited Paper"
 
-- title: "Adapting Static Analysis via Learning with Bayesian Optimization"
+- title: "Adaptive Static Analysis via Learning with Bayesian Optimization"
   author: [Kihong Heo, Hakjoo Oh, Hongseok Yang, Kwangkeun Yi]
   venue: "TOPLAS: ACM Transactions on Programming Languages and Systems"
   venue_link: "http://toplas.acm.org"
