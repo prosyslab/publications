@@ -1,4 +1,12 @@
 
+- title: "Expecto: Extracting Formal Specifications from Natural Language Description for Trustworthy Oracles"
+  author: [ "Dongjae Lee", "Kihong Heo" ]
+  venue: "PLDI 2026: ACM SIGPLAN Conference on Programming Language Design and Implementation"
+  venue_link: "https://pldi26.sigplan.org"
+  year: 2026
+  paper: "pldi26.pdf"
+  type: "conference"
+
 - title: "Safeguarding Mobile GUI Agent via Logic-based Action Verification"
   author: [ "Jungjae Lee", "Dongjae Lee", "Chihun Choi", "Youngmin Im", "Jaeyoung Wi", "Kihong Heo", "Sangeun Oh", "Sunjae Lee", "Insik Shin" ]
   venue: "MobiCom 2025: International Conference on Mobile Computing and Networking"
