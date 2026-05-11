@@ -5,6 +5,7 @@
   venue_link: "https://pldi26.sigplan.org"
   year: 2026
   paper: "pldi26.pdf"
+  project_page: "https://prosys.kaist.ac.kr/expecto/"
   type: "conference"
 
 - title: "Safeguarding Mobile GUI Agent via Logic-based Action Verification"
